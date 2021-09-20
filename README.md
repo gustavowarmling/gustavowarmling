@@ -1,4 +1,4 @@
-### Hi there! I'm Gustavo Warmling! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! I'm Gustavo Warmling! 🤙
 
 ***
 - 🐱‍💻  Front-End developer who wants to simplify people's lives
