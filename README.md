@@ -15,6 +15,13 @@ In 2019 I started my major in Computer Science and focused my studies into front
 
 ---
 
+# Publications
+
+- [English](https://gustavowarmling.hashnode.dev/) 
+- [Portuguese](https://codedimension.com.br/)
+
+---
+
 # Techs
 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50" align="left"/>
