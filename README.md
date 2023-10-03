@@ -7,7 +7,7 @@
 ---
 
 # About me
-A frontend developer with more than 3 years of experience, passionated about technology since I was a kid.
+A frontend developer with more than 4 years of experience, passionated about technology since I was a kid.
 
 My interest in development started in my adolescence when I got involed about the alternative tibia servers development community, in the same period of my life I started to work as a photographer what gives me the passion and the ability to deal with customers.
 
