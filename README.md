@@ -2,7 +2,7 @@
 
 ***
 - 🐱‍💻  Front-End developer who wants to simplify people's lives
-- 👾   I'm currently focused on stack React, NextJS, TypeScript and JavaScript
+- 👾   I'm currently focused on React, NextJS, TypeScript and JavaScript
 - 📍   You can find me here: [LinkedIn](https://www.linkedin.com/in/gustavowarmling/?locale=en_US)
 ---
 
