@@ -12,8 +12,3 @@ A problem solver passionated about technology since I was a kid.
 My interest in development started in my adolescence when I got involed about the alternative tibia servers development community, in the same period of my life I started to work as a photographer what gives me the passion and the ability to deal with customers.
 
 In 2019 I started my major in Computer Science and focused my studies into frontend, since then I'm improving everyday.
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavowarmling&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/gustavowarmling/github-readme-stats)
-
